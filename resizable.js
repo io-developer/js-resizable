@@ -1,6 +1,5 @@
 /**
- * resizable.js
- * author: Sergey Sedyshev
+ * repo: https://github.com/io-developer/resizable.js
  */
 
 var resizable = function( elem, limitByParent ) {
