@@ -1,7 +1,3 @@
-/**
- * repo: https://github.com/io-developer/resizable.js
- */
-
 var resizable = function( elem, limitByParent ) {
 	var cornerElem = document.createElement("div");
 	cornerElem.className = resizable.resizeCornerClass;
@@ -112,9 +108,9 @@ var resizable = function( elem, limitByParent ) {
 }
 
 
-resizable.resizableClass = "resizable";
-resizable.resizeLimiterClass = "resizable-limiter";
-resizable.resizeCornerClass = "resizable-corner";
+resizable.resizableClass = "js-resizable";
+resizable.resizeLimiterClass = "js-resizable-limiter";
+resizable.resizeCornerClass = "js-resizable-corner";
 
 
 resizable.init = function() {
