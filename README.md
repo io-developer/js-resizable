@@ -19,7 +19,7 @@ You can mixin behavior with lib __js-dragndrop__
             -khtml-user-select: none;
             -webkit-user-select: none;
             -ms-user-select: none;
-            user-select': none;
+            user-select: none;
         }
         .js-resizable-corner {
             position: absolute;
