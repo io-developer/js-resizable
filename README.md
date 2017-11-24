@@ -65,7 +65,7 @@ You can mixin behavior with lib __js-dragndrop__
 </head>
 <body>
     <div class="outer js-resizable-limiter">
-        <div class="inner inner--1 resizable js-resizable-limiter">
+        <div class="inner inner--1 js-resizable js-resizable-limiter">
             Content A
             
             <div class="inner inner--2 js-resizable">
